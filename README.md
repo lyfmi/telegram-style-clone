@@ -4,7 +4,7 @@
 
 Всё крутится локально на домашней видеокарте: 8 ГБ VRAM хватает. Никакие переписки никуда не отправляются.
 
-Видео, где это всё собирается: [часть 1](https://youtu.be/j1nruUFyuTo) · часть 2 — ссылка появится после выхода.
+Видео, где это всё собирается: [часть 1](https://youtu.be/j1nruUFyuTo) · [часть 2](https://youtu.be/xKmh-WXrnps?si=BKI6wy08cVIoaIHP).
 
 ---
 
@@ -59,7 +59,6 @@ result.json (экспорт Telegram)
 | **ОС** | Linux или Windows + WSL2 Ubuntu |
 | **Python** | 3.11–3.12 |
 | **Telegram** | Premium — без него не включится Telegram Business |
-| **Время** | вечер на настройку + ~2 часа на обучение |
 
 Обучение и инференс — только на Linux/WSL: unsloth под чистой Windows не заводится.
 
@@ -68,7 +67,7 @@ result.json (экспорт Telegram)
 ## Установка
 
 ```bash
-git clone https://github.com/<твой-ник>/telegram-style-clone.git
+git clone https://github.com/robertsergeev/telegram-style-clone.git
 cd telegram-style-clone
 
 python3 -m venv ~/tgstyle/.venv
