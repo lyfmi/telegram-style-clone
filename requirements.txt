@@ -1,0 +1,10 @@
+# Сборка датасета, статистика и телеграм-бот:
+#   pip install -r requirements.txt
+ijson>=3.5
+httpx>=0.27
+python-telegram-bot>=21
+
+# Обучение и инференс ставятся отдельно — unsloth сам подтянет
+# совместимые torch / transformers / trl / peft / datasets:
+#   pip install unsloth
+# Подробности и грабли — в README (раздел «Установка»).

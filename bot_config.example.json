@@ -1,0 +1,17 @@
+{
+  "token": "ВСТАВЬ_ТОКЕН_ОТ_BOTFATHER",
+  "whitelist": [],
+  "names": {},
+  "server_url": "http://127.0.0.1:8008/reply",
+  "night_hours": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "ignore_prob": 0.07,
+  "delay_scale": 1.0,
+  "history_max": 30,
+  "temperature": 0.6,
+  "top_p": 0.8
+}
